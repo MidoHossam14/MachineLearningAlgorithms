@@ -2,11 +2,9 @@
 
 This repository contains the notebook **KNN-Model.ipynb**, which demonstrates the application of the K-Nearest Neighbors (KNN) algorithm and cross-validation techniques for classification tasks using the Titanic dataset.
 
-## Authors
+## Author
 
-- محمد حسام الدين محمد محمد  
-- محمد ياسر محمد سليمان النفراوي  
-- محمد أيمن السيد أحمد حامد  
+**Mohamed Yasser El-Nafrawy**
 
 ---
 
