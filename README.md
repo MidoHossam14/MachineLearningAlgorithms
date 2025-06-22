@@ -85,7 +85,10 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 
 ## ☕ Stay Connected
-Let's stay in touch! Feel free to connect with us :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hossam-6047ab30b/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yasser-5a56672ab/i)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ayman-52053328a/)
+
+Let's stay in touch! Feel free to connect with us
+
+[![Mohamed Hossam Darwish](https://img.shields.io/badge/LinkedIn-Mohamed_Hossam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-hossam-6047ab30b/)
+[![Mohamed Yasser El-Nafrawy](https://img.shields.io/badge/LinkedIn-Mohamed_Yasser-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-yasser-5a56672ab/)
+[![Mohamed Ayman Elsayed](https://img.shields.io/badge/LinkedIn-Mohamed_Ayman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-ayman-52053328a/)
+
