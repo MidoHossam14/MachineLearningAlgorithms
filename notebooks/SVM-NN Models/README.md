@@ -82,7 +82,7 @@ This repository contains the notebook **SVM-NN-Models.ipynb**, which demonstrate
 
 ## How to Run
 
-1. Ensure you have Python 3.x and the required libraries:
+1. Ensure you have Python 3.9 (or less) and the required libraries:
     - numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow, keras
 
 2. Open and run the notebook:  
