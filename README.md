@@ -42,7 +42,7 @@ This repository contains a collection of machine learning projects and assignmen
 
     The `data` folder contains datasets (e.g., `Iris.csv`, `Titanic.csv`). Ensure the notebook paths to these datasets are correctly set.
 
-##  📂 Repository Structure
+## 📂 Repository Structure
 
 ```txt
 📦Full-Project
@@ -83,7 +83,6 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/MidoHossam14/MachineLearningAlgorithms/blob/master/LICENSE) file for details.
 
-
 ## ☕ Stay Connected
 
 Let's stay in touch! Feel free to connect with us
@@ -91,4 +90,3 @@ Let's stay in touch! Feel free to connect with us
 [![Mohamed Hossam Darwish](https://img.shields.io/badge/LinkedIn-Mohamed_Hossam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-hossam-6047ab30b/)
 [![Mohamed Yasser El-Nafrawy](https://img.shields.io/badge/LinkedIn-Mohamed_Yasser-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-yasser-5a56672ab/)
 [![Mohamed Ayman Elsayed](https://img.shields.io/badge/LinkedIn-Mohamed_Ayman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-ayman-52053328a/)
-
