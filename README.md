@@ -21,7 +21,7 @@ This repository contains a collection of machine learning projects and assignmen
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MidoHossam14/MachineLearningAlgorithms.git
    cd FULL-PROJECT
 2. **Install Dependencies**:
 
