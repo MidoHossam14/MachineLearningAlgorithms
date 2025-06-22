@@ -2,11 +2,9 @@
 
 This repository contains the notebook **SVM-NN-Models.ipynb**, which demonstrates the implementation, training, and evaluation of Support Vector Machine (SVM) and Neural Network (NN) models on the classic Iris dataset. The notebook includes exploratory data analysis, model comparison, and in-depth insights beyond visualizations.
 
-## Authors
+## Author
 
-- محمد حسام الدين محمد محمد  
-- محمد ياسر محمد سليمان النفراوي  
-- محمد أيمن السيد أحمد حامد  
+**Mohamed Ayman Elsayed Hamed**
 
 ---
 
