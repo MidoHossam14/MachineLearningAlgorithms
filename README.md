@@ -44,6 +44,7 @@ This repository contains a collection of machine learning projects and assignmen
 
 ## Folder Structure
 
+```txt
 📦Full-Project
  ┣ 📂data
  ┃ ┣ 📜CarPricePrediction.csv
@@ -61,6 +62,7 @@ This repository contains a collection of machine learning projects and assignmen
  ┃ ┃ ┗ 📜SVM-NN-Models.ipynb
  ┣ 📜README.md
  ┗ 📜requirements.txt
+```
 
 ## Contributing
 
@@ -79,4 +81,4 @@ Contributions are welcome! To contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MidoHossam14/MachineLearningAlgorithms/blob/master/LICENSE) file for details.
