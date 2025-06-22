@@ -6,11 +6,9 @@ This repository contains the notebook **RegressionModels.ipynb**, which demonstr
 - Polynomial Regression
 - Logistic Regression (Classification)
 
-## Authors
+## Author
 
-- محمد حسام الدين محمد محمد  
-- محمد ياسر محمد سليمان النفراوي  
-- محمد أيمن السيد أحمد حامد  
+**Mohamed Hossam Darwish**
 
 ---
 
