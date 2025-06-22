@@ -4,7 +4,7 @@
 
 This repository contains a collection of machine learning projects and assignments covering various algorithms and techniques. The projects include implementations of K-Nearest Neighbors (KNN), Regression Models, Support Vector Machines (SVM), and Neural Networks (NN), along with datasets for practice and experimentation.
 
-## Technology Used
+## 🛠️ Technology Used
 
 - **Programming Language**: Python
 - **Libraries**:
@@ -87,5 +87,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ## ☕ Stay Connected
 Let's stay in touch! Feel free to connect with us :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hossam-6047ab30b/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yasser-5a56672ab/i)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ayman-52053328a/)
