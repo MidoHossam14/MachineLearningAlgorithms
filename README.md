@@ -61,6 +61,7 @@ This repository contains a collection of machine learning projects and assignmen
  ┃ ┃ ┣ 📜README.md
  ┃ ┃ ┗ 📜SVM-NN-Models.ipynb
  ┣ 📜README.md
+ ┗ 📜LICENSE
  ┗ 📜requirements.txt
 ```
 
